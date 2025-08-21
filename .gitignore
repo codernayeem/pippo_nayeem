@@ -9,3 +9,5 @@ nb-configuration.xml
 
 # IDE - VSCode
 .factorypath
+
+ignore.txt
